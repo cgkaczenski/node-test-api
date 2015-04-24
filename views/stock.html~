@@ -1,0 +1,11 @@
+<div id="profile">
+
+    
+    <p><span>@{{symbol}}</span></p>
+
+    <ul>
+        <li><span>{{price}}</span> Current Price</li>
+        <li><a href="/">search again</a></li>
+    </ul>
+
+</div>
